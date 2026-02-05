@@ -17,12 +17,8 @@ public class Calculadora04 {
 		 return 0;
 		 }
 		 return (double) a / b;
-<<<<<<< HEAD
 		}
 		 
-=======
-	}
- 
 	public int potencia(int base, int exponente) {
 		 int resultado = 1;
 		 for (int i = 0; i < exponente; i++) {
@@ -33,6 +29,4 @@ public class Calculadora04 {
 	public int modulo(int a, int b) {
 		 return a % b;
 	}
-
->>>>>>> feature-avanzadas
-}
+	}
