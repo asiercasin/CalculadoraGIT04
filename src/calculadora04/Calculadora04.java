@@ -1,3 +1,5 @@
+/** clase calculadora funcional */
+
 package calculadora04;
 
 public class Calculadora04 {
@@ -13,7 +15,7 @@ public class Calculadora04 {
 	}
 	public double dividir(int a, int b) {
 		 if (b == 0) {
-		 System.out.println("Error: división entre cero");
+		 System.out.println("Error: divisiÃ³n entre cero");
 		 return 0;
 		 }
 		 return (double) a / b;
